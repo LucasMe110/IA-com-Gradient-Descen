@@ -1,5 +1,7 @@
 # Relatório de Experimentos com Gradient Descent
 
+## Atividade 1 da materia de Inteligência Artificial Conexionista (Mestrado UFSC)
+
 ## Etapa 2: Experimentos com Taxas de Aprendizado
 
 ### 1. Objetivo
